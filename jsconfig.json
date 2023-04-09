@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    // Other compiler options...
+  },
+  "vueCompilerOptions": {
+    "target": 2.7
+  }
+}
